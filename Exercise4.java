@@ -11,7 +11,7 @@ public class Exercise4{
             System.out.println("oldest");
         }
         else;{
-            System.out.println("youngest");
+            System.out.println("newest");
         }
     }
 }
